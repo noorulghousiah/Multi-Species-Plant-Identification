@@ -1,5 +1,5 @@
 
-# 🌿 Family Classification of Plants using EfficientNet (PlantCLEF2024 Subset) [PlantCLEF2024](https://www.kaggle.com/competitions/plantclef-2025)
+# 🌿 Multi-Family Plant Identification in Vegetation Quadrat Images using EfficientNet (PlantCLEF2024 Subset) [PlantCLEF2024](https://www.kaggle.com/competitions/plantclef-2025)
 
 This project performs fine-grained classification of **5 families of plants : Asteraceae, Brassicaceae, Fabaceae, Poaceae, Rosaceae**.
 
